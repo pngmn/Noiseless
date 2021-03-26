@@ -5,6 +5,7 @@
 ## Version: @project-version@
 ## SavedVariables: NoiselessDB
 ## X-Curse-Project-ID: 357444
+## X-WoWI-ID: 25912
 
 Embeds.xml
 Locales.xml
