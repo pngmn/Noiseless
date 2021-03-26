@@ -71,7 +71,7 @@ local function GetOptions()
 					arg = tbl,
 					width = 1.5,
 					set = function(info, value)
-						db[info[#info]] = value
+						addon.db.profile[info[#info]] = value
 						module:ToggleMuteStatus(name, tbl)
 					end,
 					order = count
