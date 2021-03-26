@@ -1,0 +1,13 @@
+## Interface: 90005
+## Title: Noiseless
+## Notes: Mute some annoying game sounds
+## Author: Pingumania
+## Version: @project-version@
+## SavedVariables: NoiselessDB
+## X-Curse-Project-ID: 357444
+
+Embeds.xml
+Locales.xml
+Core.lua
+Presets.lua
+Config.lua
