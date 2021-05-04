@@ -13,5 +13,5 @@ ignore:
   - *.md
 
 manual-changelog:
-  filename: RECENT_CHANGELOG.md
+  filename: CHANGELOG.md
   markup-type: markdown
