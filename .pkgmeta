@@ -10,6 +10,7 @@ externals:
 
 ignore:
   - Assets
+  - "*.md"
 
 manual-changelog:
   filename: RECENT_CHANGES.md

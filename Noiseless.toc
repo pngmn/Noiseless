@@ -1,4 +1,4 @@
-## Interface: 90105
+## Interface: 90200
 ## Title: Noiseless
 ## Notes: Mute some annoying game sounds
 ## Author: Pingumania

@@ -1,3 +1,7 @@
+Noiseless | 9.2.0-1
+-------------------
+- ToC update for 9.2.0
+
 Noiseless | 9.1.5-1
 -------------------
 - TOC update for 9.1.5
